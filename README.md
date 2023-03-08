@@ -2,10 +2,12 @@
 
 
 Task Description
+
 You're tasked with implementing a feature that displays a list of NFTs (Non-Fungible Tokens) of a given address.
 
 
 Requirements
+
 1. The list of NFTs should be displayed as a grid of cards, with each card displaying the NFT's details.
 
 2. When a user clicks on a card, a modal should be displayed that shows more details about the NFT, such as its description and the owner's address.
@@ -16,6 +18,7 @@ Requirements
 
 
 Evaluation Criteria
+
 Your code will be evaluated based on the following criteria:
 
 1. Correctness: Does your code fulfil the requirements listed above? Does it handle edge cases and error scenarios?
